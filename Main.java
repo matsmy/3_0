@@ -15,8 +15,10 @@ class Main {
         System.out.println("Podaj imie");
         String name = scan.nextLine();
         System.out.println("Podaj wiek");
-        int age = scan.nextInt();
-        s.addStudent(new Student(name, age));
+        int age = scan.nextInt(); scan.nextLine();
+        System.out.println("Podaj date urodzenia");
+        String du = scan.nextLine();
+        s.addStudent(new Student(name, age, du));
         break;
     }
     case 2: {

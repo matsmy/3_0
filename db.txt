@@ -1,6 +1,1 @@
-Krzysztof 20
-Janusz 40
-Krzysztof 20
-Janusz 40
-Mateusz 18
-\karol 67
+Mateusz 21 29.37.2222
